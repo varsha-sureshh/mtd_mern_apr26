@@ -1,0 +1,4 @@
+restful api - frontend and backend seperately- both can be developed in different languages. it is an added advantage
+javascript, mongodb, bootstrap
+json, xml, javascript object notation, plaintext
+json is the code that translates to a common language where all the files can understand each other
